@@ -1,1 +1,1 @@
-# My-portfolio
+A personal portfolio website developed using HTML, CSS, and JavaScript to showcase my skills, projects, education, and contact information. Designed with a responsive and user-friendly interface to provide a seamless viewing experience across devices.
